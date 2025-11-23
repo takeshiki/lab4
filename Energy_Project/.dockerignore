@@ -1,0 +1,11 @@
+**/bin/
+**/obj/
+.vs/
+.git/
+Dockerfile
+docker-compose.yml
+*.user
+*.suo
+*.userosscache
+*.sln.docstates
+TestResults/
